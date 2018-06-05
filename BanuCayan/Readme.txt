@@ -1,6 +1,9 @@
 Final Projesi
-Bto312 Çoklu ortam Tasarımı ve Üretimi
-Banu ÇAYAN 
+Bto312 Ã‡oklu ortam TasarÄ±mÄ± ve Ãœretimi
+Banu Ã‡AYAN 
 21541989 
-Hacettepe BÖTE
+Hacettepe BÃ–TE
+
+
+1. versiyon YÃ¼kleme yapÄ±ldÄ±.
 
